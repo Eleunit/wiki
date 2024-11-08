@@ -12,7 +12,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Eleunit', // Usually your GitHub org/user name.
-  projectName: 'Eleunit-WiKi', // Usually your repo name.
+  projectName: 'wiki', // Usually your repo name.
 
   presets: [
     [
